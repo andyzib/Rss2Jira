@@ -1,0 +1,5 @@
+{
+    "rss": "https://my.atlassian.com/download/feeds/confluence.rss"
+	"title": "Confluence Releases"
+	"triggers": ["Windows 64 Bit Installer"] 
+}

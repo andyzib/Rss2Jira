@@ -1,0 +1,5 @@
+{
+    "rss": "https://my.atlassian.com/download/feeds/stash.rss"
+	"title": "BitBucket Releases"
+	"triggers": ["Windows 64 Bit Installer"] 
+}

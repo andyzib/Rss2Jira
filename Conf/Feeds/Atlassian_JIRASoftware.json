@@ -1,0 +1,5 @@
+{
+    "rss": "https://my.atlassian.com/download/feeds/jira-software.rss"
+	"title": "JIRA Software Releases"
+	"triggers": ["Windows 64 Bit Installer"] 
+}

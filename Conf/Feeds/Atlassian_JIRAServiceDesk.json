@@ -1,0 +1,5 @@
+{
+    "rss": "https://my.atlassian.com/download/feeds/jira-servicedesk.rss"
+	"title": "JIRA Service Desk Releases"
+	"triggers": ["Windows 64 Bit Installer"] 
+}

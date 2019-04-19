@@ -1,0 +1,7 @@
+{
+    "RSS": "https://blogs.technet.microsoft.com/msrc/feed/",
+	"Title": "Microsoft Security Response Center",
+	"Triggers": ["Security Advisory", "Security Update", "Update Tuesday"],
+	"ItemProperties": ["title", "link", "pubDate", "category", "descripton", "encoded"],
+	"TrackingFile": "C:\\Users\\azbikowski\\Code\\GitHub\\Rss2Jira\\Tracking\\MSRC.txt"
+}
